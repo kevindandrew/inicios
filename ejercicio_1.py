@@ -8,3 +8,5 @@ response=int(input("ingrese un numero"))
 
 for num in range(1,11):
     print(f"{num} x {response} = {num*response}")
+
+print("hola gente hermosa")
